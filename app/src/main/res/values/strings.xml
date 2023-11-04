@@ -3,4 +3,7 @@
     <string name="add_note">new</string>
     <string name="add_text_note">text</string>
     <string name="add_audio_note">audio</string>
+    <string name="seconds_remaining">%1$s Seconds Remaining</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
 </resources>
