@@ -18,5 +18,12 @@
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:text="@string/stop" />
+    <Button
+        android:id="@+id/play_recording"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        android:text="@string/play" />
 
 </LinearLayout>

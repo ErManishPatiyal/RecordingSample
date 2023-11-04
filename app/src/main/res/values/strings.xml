@@ -6,4 +6,5 @@
     <string name="seconds_remaining">%1$s Seconds Remaining</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
+    <string name="play">Play</string>
 </resources>
