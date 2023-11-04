@@ -43,9 +43,9 @@
             <Button
                 android:id="@+id/deleteNoteButton"
                 style="@style/Widget.Material3.Button.TextButton"
-                android:layout_width="wrap_content"
+                android:layout_width="43dp"
                 android:layout_height="wrap_content"
-                android:text="Delete" />
+                app:icon="@android:drawable/ic_menu_delete" />
         </LinearLayout>
     </LinearLayout>
 </com.google.android.material.card.MaterialCardView>
